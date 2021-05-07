@@ -1,0 +1,4 @@
+#Fri May 07 14:57:56 EDT 2021
+base.0=/Users/talonsmith/Desktop/Spring 2021 Classes/CIM 433- AR/Final Project/CIM-443/Miami Tourism Map/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
